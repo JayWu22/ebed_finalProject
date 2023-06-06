@@ -1,0 +1,14 @@
+/*!
+ * You can write copyrights rules here. These rules will be copied into the outputs.
+ */
+
+//@outputDir("erpc_outputs") // output directory
+
+program finalbbcar; // specify name of output files
+
+interface bbcarService // cover functions for same topic
+{
+    bbcar_start(void) -> void
+    bbcar_speed(void) -> float
+    bbcar_distance(void) -> float
+}
