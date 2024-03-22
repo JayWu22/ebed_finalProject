@@ -1,5 +1,5 @@
 # finalProject
-This project is for bbcar to smoothly navigate the map, make turns based on marks on the map, detect the slit made by paper board, and report the distance it travels by erpc sver and Xbee commuication.
+This project is for bbcar to smoothly navigate the map, make turns based on marks on the map, detect the slit made by paper board, and report the distance it travels by erpc server and Xbee communication.
   Setup: 
   1. Compose bbcar as lab. 
   2. Import bbcar and erpc libraries as lab. 
